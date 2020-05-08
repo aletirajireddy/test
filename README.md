@@ -6,4 +6,4 @@ second changes on remote repo
 
 i wanted to merge with develop
 
-medium change to master
+medium change to master!!
